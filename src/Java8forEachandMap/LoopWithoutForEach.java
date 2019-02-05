@@ -29,12 +29,12 @@ public class LoopWithoutForEach {
         }
         
          //looping through a list
-    List<String> item = new ArrayList<>();
-    item.add("A");
-    item.add("B");
-    item.add("C");
-    item.add("D");
-    item.add("E");
+        List<String> item = new ArrayList<>();
+        item.add("A");
+        item.add("B");
+        item.add("C");
+        item.add("D");
+        item.add("E");
         
     }
 }

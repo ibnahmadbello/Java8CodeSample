@@ -5,7 +5,9 @@
  */
 package Java8forEachandMap;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -32,5 +34,40 @@ public class LoopWithforEach {
                 System.out.println("Hello E");
             }
         });
+        
+         //looping through a list
+        List<String> item = new ArrayList<>();
+        item.add("A");
+        item.add("B");
+        item.add("C");
+        item.add("D");
+        item.add("E");
+        
+        //lambda
+        //Output : A, B, C, D, E
+        item.forEach(listItem->System.out.println(listItem));
+        
+        System.out.println();
+        
+        //Output : C
+        item.forEach(singleItem->{
+            if ("C".equals(singleItem)) {
+                System.out.println(singleItem);
+            }
+        });
+        
+        System.out.println();
+        
+        //method reference
+        //Output : A, B, C, D, E
+        item.forEach(System.out::println);
+        
+        System.out.println();
+        
+        //Stream and filter
+        //Output : B
+        item.stream()
+                .filter(s->s.contains("B"))
+                .forEach(System.out::println);
     }
 }

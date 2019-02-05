@@ -5,7 +5,9 @@
  */
 package Java8forEachandMap;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -25,5 +27,14 @@ public class LoopWithoutForEach {
         for (Map.Entry<String, Integer> entry : items.entrySet()) {
             System.out.println("Item : " + entry.getKey() + " Count : " + entry.getValue());                      
         }
+        
+         //looping through a list
+    List<String> item = new ArrayList<>();
+    item.add("A");
+    item.add("B");
+    item.add("C");
+    item.add("D");
+    item.add("E");
+        
     }
 }

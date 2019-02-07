@@ -13,9 +13,9 @@ import java.math.BigDecimal;
  */
 public class Developer {
     
-    public String name;
-    public BigDecimal salary;
-    public int age;
+    private String name;
+    private BigDecimal salary;
+    private int age;
 
     public Developer(String name, BigDecimal salary, int age) {
         this.name = name;

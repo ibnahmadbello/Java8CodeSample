@@ -3,26 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/MaptoList/SimpleConvertMapToList.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/MaptoList/ConvertMapToList.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/DateToLocalDate/JavaTimeToDate.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate6.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/FlatMap/TestExample1Improved.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StreamClosedError/ReuseStream.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/DateToLocalDate/DateToJavaTime.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/FlatMap/TestExample3.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate3.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StreamClosedError/TestJava8.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate4.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/FlatMap/StreamSetFlatMap/TestExample2.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/FlatMap/StreamSetFlatMap/Student.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/FlatMap/TestExample1.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate1.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate5.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate2.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/MaptoList/ConvertMapTo2List.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringtoLocalDate/TestNewDate7.java</file>
-            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/OptionalInDepth/OptionalBasicExample.java</file>
+            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/RandomPackage/TestRandom1.java</file>
+            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/RandomPackage/TestRandom.java</file>
+            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringJoiner/TestGameClass.java</file>
+            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringJoiner/Game.java</file>
+            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/StringJoiner/StringJoinerExample.java</file>
+            <file>file:/home/ibnahmad/NetBeansProjects/Java8Examples/src/RandomPackage/TestRandom2.java</file>
         </group>
     </open-files>
 </project-private>
